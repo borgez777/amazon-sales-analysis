@@ -1,6 +1,6 @@
 # 📊 Análise de Produtos - Amazon Índia
 
-Este projeto é uma análise exploratória de dados (EDA) usando um dataset de produtos da Amazon Índia. A ideia aqui não foi só gerar gráficos bonitos, mas entender como preço, desconto e avaliação se relacionam na prática.
+Este projeto é uma análise exploratória de dados (EDA) usando um dataset de produtos da Amazon Índia. A ideia aqui foi entender como preço, desconto e avaliação se relacionam na prática.
 
 No final, organizei tudo em um dashboard interativo com Streamlit.
 
