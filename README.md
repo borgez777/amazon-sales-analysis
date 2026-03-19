@@ -4,7 +4,7 @@ Este projeto é uma análise exploratória de dados (EDA) usando um dataset de p
 
 No final, organizei tudo em um dashboard interativo com Streamlit.
 
-## 🎯 O que eu quis investigar
+## 🎯 O que eu quis analisar
 
 Pensando como alguém de negócio, foquei em algumas perguntas que poderiam fazer diferença em um e-commerce:
 
