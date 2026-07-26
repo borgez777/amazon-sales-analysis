@@ -34,5 +34,5 @@ Pensando como alguém de negócio, foquei em algumas perguntas que poderiam faze
 ```bash
 git clone https://github.com/danieelborgess/amazon-sales-analysis.git
 cd amazon-sales-analysis
-pip install -r requirements.txt
+pip install pandas plotly streamlit
 streamlit run app.py
