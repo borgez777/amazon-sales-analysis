@@ -32,7 +32,7 @@ Pensando como alguém de negócio, foquei em algumas perguntas que poderiam faze
 ## 🚀 Como rodar o projeto
 
 ```bash
-git clone https://github.com/borgez777/amazon-sales-analysis.git
+git clone https://github.com/danieelborgess/amazon-sales-analysis.git
 cd amazon-sales-analysis
 pip install -r requirements.txt
 streamlit run app.py
